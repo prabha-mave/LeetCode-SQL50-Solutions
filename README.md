@@ -15,6 +15,7 @@
 | [1251-average-selling-price](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1683-invalid-tweets/) | Easy |
