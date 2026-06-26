@@ -25,4 +25,5 @@
 | [1683-invalid-tweets](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1934-confirmation-rate/) | Medium |
+| [1978-employees-whose-manager-left-the-company](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
