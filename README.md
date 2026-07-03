@@ -15,6 +15,7 @@
 | [0620-not-boring-movies](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/1280-students-and-examinations/) | Easy |
