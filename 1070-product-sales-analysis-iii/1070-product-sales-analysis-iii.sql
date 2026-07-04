@@ -1,11 +1,14 @@
 # Write your MySQL query statement below
 
-/*select product_id,
+/*
+select product_id,
     min(year) as first_year,
     quantity,
     price
 from sales
-group by product_id - wrong answer because i didn't includequantity and price group by*/
+group by product_id, quantity, price  - wrong answer because i didn't includequantity and price group by*/
+
+
 
 with first_year as(
     select 
