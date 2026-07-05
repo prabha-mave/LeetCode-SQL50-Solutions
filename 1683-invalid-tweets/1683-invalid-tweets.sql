@@ -1,4 +1,4 @@
--- Write your PostgreSQL query statement below
+/* Write your T-SQL query statement below */
 select tweet_id
 from tweets
-where length(content)>15
+where len(content)>15
