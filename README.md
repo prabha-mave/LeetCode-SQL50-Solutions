@@ -13,6 +13,7 @@
 | [0584-find-customer-referee](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/prabha-mave/LeetCode-SQL50-Solutions/tree/main/0620-not-boring-movies/) | Easy |
