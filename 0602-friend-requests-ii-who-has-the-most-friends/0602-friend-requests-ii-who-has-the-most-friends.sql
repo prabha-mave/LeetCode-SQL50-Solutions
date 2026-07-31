@@ -12,6 +12,7 @@ group by user_id
 order by num desc
 limit 1
 
+-- UNION removes duplicate rows from the combined result set, while UNION ALL includes all rows, keeping duplicates.
 
 /*
 select sub.id, count(sub.id) as num
